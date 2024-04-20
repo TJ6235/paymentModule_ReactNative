@@ -1,0 +1,162 @@
+{
+  "Transactions": [
+    {
+      "amount": "78255",
+      "comment": "plot purchase",
+      "id": 1
+    },
+    {
+      "amount": "1000",
+      "comment": "mobile recharge",
+      "id": 2
+    },
+    {
+      "amount": "4500",
+      "comment": "payment for car insurance ",
+      "id": 3
+    },
+    {
+      "amount": "500",
+      "comment": "stationary  expenses ",
+      "id": 4
+    },
+    {
+      "amount": "1500",
+      "comment": "water bill ",
+      "id": 5
+    },
+    {
+      "amount": "50000",
+      "comment": "laptop purchase",
+      "id": 6
+    },
+    {
+      "amount": "700",
+      "comment": "stationary  purchase",
+      "id": 7
+    },
+    {
+      "amount": "450",
+      "comment": "electricity Bill ",
+      "id": 8
+    },
+    {
+      "amount": "55870",
+      "comment": "salary to employees",
+      "id": 9
+    },
+    {
+      "amount": "100",
+      "comment": "water bill",
+      "id": 10
+    },
+    {
+      "amount": "500",
+      "comment": "recharge",
+      "id": 11
+    },
+    {
+      "amount": "400",
+      "comment": "Table purchase",
+      "id": 12
+    },
+    {
+      "amount": "12000",
+      "comment": "School fees",
+      "id": 13
+    },
+    {
+      "amount": "500",
+      "comment": "telephone bill",
+      "id": 14
+    },
+    {
+      "amount": "500",
+      "comment": "stationary",
+      "id": 15
+    },
+    {
+      "amount": "4100",
+      "comment": "grocery purchase",
+      "id": 16
+    },
+    {
+      "amount": "4500",
+      "comment": "Miscellaneous expense",
+      "id": 17
+    },
+    {
+      "amount": "4522",
+      "comment": "furniture purchase",
+      "id": 18
+    },
+    {
+      "amount": "500",
+      "comment": "common expense",
+      "id": 19
+    },
+    {
+      "amount": "1000",
+      "comment": "common expense",
+      "id": 20
+    },
+    {
+      "amount": "5000",
+      "comment": "purchased furniture",
+      "id": 21
+    }
+  ],
+  "Upitransactions": [
+    {
+      "amount": "500",
+      "comment": "restaurant  expenses ",
+      "id": 1
+    },
+    {
+      "amount": "1700",
+      "comment": "stationary  purchase",
+      "id": 2
+    },
+    {
+      "amount": "4500",
+      "comment": "vehicle emi",
+      "id": 3
+    },
+    {
+      "amount": "8000",
+      "comment": "home rent",
+      "id": 4
+    },
+    {
+      "amount": "12000",
+      "comment": " purchased Electrrical items ",
+      "id": 5
+    }
+  ],
+  "Selftransfertransactions": [
+    {
+      "amount": "4500",
+      "comment": "security deposit ",
+      "id": 1
+    },
+    {
+      "amount": "7982",
+      "comment": "pc repair",
+      "id": 2
+    },
+    {
+      "amount": "5000",
+      "comment": "mobilephone emi",
+      "id": 3
+    }
+  ],
+  "Firstuser": [
+    {
+      "Firstusername": "Carl Max",
+      "FirstuserMobile": "+91 9745466784",
+      "FirstuserBankaccountnumber": "9997778881425",
+      "Firstusersecondaryaccountnumber": "9887768841258",
+      "Firstuserupiid": "Carlmax9745@ybl"
+    }
+  ]
+}
